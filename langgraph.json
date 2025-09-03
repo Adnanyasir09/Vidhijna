@@ -1,0 +1,14 @@
+{
+  "python_version": "3.11",
+  "dependencies": [
+    "langchain_ollama",
+    "langchain_core",
+    "langgraph",
+    "typing_extensions",
+    "faiss-cpu",
+    "."
+  ],
+  "graphs": {
+    "Vidhijan": "./agents/graph.py:graph"
+  }
+}
