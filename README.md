@@ -61,7 +61,7 @@ The project consists of the following main files:
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/your-repo/legal-research-assistant.git
+   git clone https://github.com/username/Vidhijna.git
    cd legal-research-assistant
    ```
 
@@ -297,18 +297,3 @@ Please ensure code follows PEP 8 standards and includes tests for new functional
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
-# Contributers:
-
-<ol>
-   <li>
-      <a href="https://github.com/sanatwalia896">Sanat Walia</a>
-   </li>
-   <li>
-      <a href="https://github.com/tanmay-vig">Tanmay Vig</a>
-   </li>
-
-</ol>
-
-## Acknowledgments
-
-This project was inspired by and builds upon the [Local Deep Researcher](https://github.com/langchain-ai/local-deep-researcher) by LangChain AI. The web research functionality, particularly the integration of multiple search APIs (DuckDuckGo, Tavily, Perplexity) and the deduplication and formatting of search results, is adapted from their work. We extend our gratitude to the LangChain AI team for their open-source contributions, which provided a foundation for the web research component of this project.
